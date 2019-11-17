@@ -1,0 +1,7 @@
+com/automationFramework/utilities/ReadConfig.class
+com/automationFramework/utilities/Reporting.class
+com/automationFramework/pageObjects/LoginPage.class
+com/automationFramework/testCases/BaseClass.class
+com/automationFramework/testCases/TC_loginTest_001.class
+com/automationFramework/testCases/TC_loginTest_002.class
+com/automationFramework/utilities/XLUtils.class

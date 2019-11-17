@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name ="automationframework">
+	<listeners>
+		<listener class-name="com.automationFramework.utilities.Reporting"></listener>
+	</listeners>
+	<test name="loginTest">
+		<parameter name="browser" value="chrome"/>
+		<classes>
+			<class name="com.automationFramework.testCases.TC_loginTest_001"></class>
+		</classes>
+	</test>
+</suite>
